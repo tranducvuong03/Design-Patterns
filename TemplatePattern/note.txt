@@ -1,0 +1,13 @@
+Chương 8 nói đến Hollywood Principle => "Don't call us, we'll call you."
+
+Nghĩa là lower-level components sẽ không gọi đến higher-level components, 
+mà ngược lại, higher-level components sẽ gọi đến lower-level components khi cần thiết. 
+Điều này giúp giảm sự phụ thuộc giữa các thành phần trong hệ thống, làm cho mã dễ bảo trì và mở rộng hơn.
+
+High-Level Components: ví dụ như các mẫu chứa các method gọi đến method con
+Low-Level Components: ví dụ như các class con kế thừa method thực hiện công việc cụ thể
+
+
+Strategy và Template Pattern đều đóng gói thuật toán, 
+cái đầu tiên dùng cách composition, 
+cái thứ hai dùng cách inheritance.
