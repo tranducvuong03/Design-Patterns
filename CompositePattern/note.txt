@@ -1,0 +1,11 @@
+Composite Pattern sử dụng cấu trúc cây để tổ chức các đối tượng thành một cấu trúc phân cấp. 
+Nó cho phép xử lý các đối tượng đơn lẻ và các nhóm đối tượng một cách đồng nhất.
+
+Trong Composite Pattern, có hai loại đối tượng chính:
+1. Composite object: Đây là đối tượng có thể chứa các đối tượng khác (có thể là composite hoặc leaf). 
+Nó thường có một danh sách các con và triển khai các phương thức để thêm, xóa và truy cập các con.
+
+2. Leaf object: Đây là đối tượng đơn lẻ, không chứa bất kỳ đối tượng nào khác. 
+Nó thường triển khai các phương thức để thực hiện các hành động cụ thể.
+
+=> Cả 2 đều triển khai một giao diện Component chung, cho phép chúng được xử lý một cách đồng nhất.
