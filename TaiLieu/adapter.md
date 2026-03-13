@@ -6,7 +6,7 @@
 
 Hình minh họa cấu trúc UML
 
-<img width="617" height="433" alt="image" src="https://github.com/user-attachments/assets/000f221b-4621-4cec-ac5d-0fa079f9c118" />
+<img width="741" height="337" alt="image" src="https://github.com/user-attachments/assets/297df3f7-d0cf-4c38-a2ed-194e896a358e" />
 
 Adapter hoạt động bằng cách bọc một object adaptee bên trong một adapter có giao diện tương thích với client.
 
