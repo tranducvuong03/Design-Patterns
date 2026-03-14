@@ -6,7 +6,7 @@
 
 Hình minh họa cấu trúc UML
 
-<p align="center"> <img src="https://refactoring.guru/images/patterns/diagrams/strategy/structure.png" width="600"/> </p>
+<p align="center"> <img src="https://www.oodesign.com/images/design_patterns/behavioral/strategy_implementation_-_uml_class_diagram.gif" width="600"/> </p>
 
 Ý tưởng cốt lõi là tách phần thay đổi ra khỏi lớp chính và lập trình hướng tới interface thay vì implementation. Thay vì class tự quyết định hành vi, nó ủy quyền hành vi cho một strategy bên ngoài.
 
