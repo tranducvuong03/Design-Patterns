@@ -6,7 +6,7 @@
 
 Hình minh họa cấu trúc UML
 
-<p align="center"> <img src="https://refactoring.guru/images/patterns/diagrams/singleton/structure.png" width="600"/> </p>
+<img width="924" height="413" alt="image" src="https://github.com/user-attachments/assets/b028ac56-bbbe-4721-beb8-2155aa758036" />
 
 Singleton ngăn chặn việc tạo nhiều instance và cung cấp truy cập dễ dàng.
 

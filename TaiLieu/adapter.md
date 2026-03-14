@@ -6,7 +6,7 @@
 
 Hình minh họa cấu trúc UML
 
-<p align="center"> <img src="https://refactoring.guru/images/patterns/diagrams/adapter/structure.png" width="600"/> </p>
+<img width="741" height="337" alt="image" src="https://github.com/user-attachments/assets/297df3f7-d0cf-4c38-a2ed-194e896a358e" />
 
 Adapter hoạt động bằng cách bọc một object adaptee bên trong một adapter có giao diện tương thích với client.
 
